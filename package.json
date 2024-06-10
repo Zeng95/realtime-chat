@@ -11,7 +11,7 @@
     "bootstrap-vue": "^2.15.0",
     "core-js": "^3.6.4",
     "emoji-mart-vue": "^2.6.6",
-    "firebase": "^7.15.1",
+    "firebase": "^7.24.0",
     "gravatar": "^1.8.0",
     "moment": "^2.29.4",
     "nprogress": "^0.2.0",
